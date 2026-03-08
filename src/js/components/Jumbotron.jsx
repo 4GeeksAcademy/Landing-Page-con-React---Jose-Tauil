@@ -19,7 +19,6 @@ const Jumbotron = () => {
                     Call to action!
                 </button>
 
-
             </div>
         </div>
     );
